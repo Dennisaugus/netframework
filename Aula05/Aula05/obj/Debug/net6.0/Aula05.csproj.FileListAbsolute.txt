@@ -1,0 +1,15 @@
+C:\Users\denni\source\repos\Aula05\Aula05\bin\Debug\net6.0\Aula05.exe
+C:\Users\denni\source\repos\Aula05\Aula05\bin\Debug\net6.0\Aula05.deps.json
+C:\Users\denni\source\repos\Aula05\Aula05\bin\Debug\net6.0\Aula05.runtimeconfig.json
+C:\Users\denni\source\repos\Aula05\Aula05\bin\Debug\net6.0\Aula05.dll
+C:\Users\denni\source\repos\Aula05\Aula05\bin\Debug\net6.0\Aula05.pdb
+C:\Users\denni\source\repos\Aula05\Aula05\obj\Debug\net6.0\Aula05.csproj.AssemblyReference.cache
+C:\Users\denni\source\repos\Aula05\Aula05\obj\Debug\net6.0\Aula05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\source\repos\Aula05\Aula05\obj\Debug\net6.0\Aula05.AssemblyInfoInputs.cache
+C:\Users\denni\source\repos\Aula05\Aula05\obj\Debug\net6.0\Aula05.AssemblyInfo.cs
+C:\Users\denni\source\repos\Aula05\Aula05\obj\Debug\net6.0\Aula05.csproj.CoreCompileInputs.cache
+C:\Users\denni\source\repos\Aula05\Aula05\obj\Debug\net6.0\Aula05.dll
+C:\Users\denni\source\repos\Aula05\Aula05\obj\Debug\net6.0\refint\Aula05.dll
+C:\Users\denni\source\repos\Aula05\Aula05\obj\Debug\net6.0\Aula05.pdb
+C:\Users\denni\source\repos\Aula05\Aula05\obj\Debug\net6.0\Aula05.genruntimeconfig.cache
+C:\Users\denni\source\repos\Aula05\Aula05\obj\Debug\net6.0\ref\Aula05.dll
