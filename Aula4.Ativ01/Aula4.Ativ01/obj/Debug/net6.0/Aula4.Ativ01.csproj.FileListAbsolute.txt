@@ -1,0 +1,15 @@
+C:\Users\denni\source\repos\Aula4.Ativ01\Aula4.Ativ01\obj\Debug\net6.0\Aula4.Ativ01.csproj.AssemblyReference.cache
+C:\Users\denni\source\repos\Aula4.Ativ01\Aula4.Ativ01\obj\Debug\net6.0\Aula4.Ativ01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\source\repos\Aula4.Ativ01\Aula4.Ativ01\obj\Debug\net6.0\Aula4.Ativ01.AssemblyInfoInputs.cache
+C:\Users\denni\source\repos\Aula4.Ativ01\Aula4.Ativ01\obj\Debug\net6.0\Aula4.Ativ01.AssemblyInfo.cs
+C:\Users\denni\source\repos\Aula4.Ativ01\Aula4.Ativ01\obj\Debug\net6.0\Aula4.Ativ01.csproj.CoreCompileInputs.cache
+C:\Users\denni\source\repos\Aula4.Ativ01\Aula4.Ativ01\bin\Debug\net6.0\Aula4.Ativ01.exe
+C:\Users\denni\source\repos\Aula4.Ativ01\Aula4.Ativ01\bin\Debug\net6.0\Aula4.Ativ01.deps.json
+C:\Users\denni\source\repos\Aula4.Ativ01\Aula4.Ativ01\bin\Debug\net6.0\Aula4.Ativ01.runtimeconfig.json
+C:\Users\denni\source\repos\Aula4.Ativ01\Aula4.Ativ01\bin\Debug\net6.0\Aula4.Ativ01.dll
+C:\Users\denni\source\repos\Aula4.Ativ01\Aula4.Ativ01\bin\Debug\net6.0\Aula4.Ativ01.pdb
+C:\Users\denni\source\repos\Aula4.Ativ01\Aula4.Ativ01\obj\Debug\net6.0\Aula4.Ativ01.dll
+C:\Users\denni\source\repos\Aula4.Ativ01\Aula4.Ativ01\obj\Debug\net6.0\refint\Aula4.Ativ01.dll
+C:\Users\denni\source\repos\Aula4.Ativ01\Aula4.Ativ01\obj\Debug\net6.0\Aula4.Ativ01.pdb
+C:\Users\denni\source\repos\Aula4.Ativ01\Aula4.Ativ01\obj\Debug\net6.0\Aula4.Ativ01.genruntimeconfig.cache
+C:\Users\denni\source\repos\Aula4.Ativ01\Aula4.Ativ01\obj\Debug\net6.0\ref\Aula4.Ativ01.dll
