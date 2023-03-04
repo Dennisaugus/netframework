@@ -1,0 +1,60 @@
+Conceitos de C# 
+
+2 apps (windows and web)
+
+Desenvolvimento de Software:
+Oque é necessário:
+-> Linguagem de programação: 
+-> Source-Code (Código-fonte)
+-> IDE (integrated Development Environment)
+-> Compiler (Compilar)
+-> Debug (Depuração)
+-> Deploy (Distribuição)
+-> Aplicativos Desktop,Web,Services,Mobile,Console
+
+Publicação e Distribuição do projeto
+
+Visual studio e .net são IDEs para poder Desenvolver 
+-> Criar programas
+-> Depurar 
+-> Arquitetar 
+
+
+Plataforma .net
+-> Visual Studio 2017: Ambiente integrado de Desenvolvimento
+-> .Net Framework: Conjunto de coisas que servem para determinado
+                   recurso (construção de um Software do inicial ao fim)
+                   e proteje o seu Software
+-> .Net Core: A mesma função do .net framework porém é uma multpltaforma 
+              (linux, android, MacOs)
+-> C#, Visual Basic, C++ : C# Linguagem especifica para o .net Framework
+-> SKD: Kit de Desenvolvimento 
+
+
+.Net Framework (Falando mais um pouco)
+-> Common Language Runtime: ambiente de execução comum para as linguagens
+                            (responsavel pela execução do framework), 
+                            codigo intermediario
+-> Class Library: Bloco de código (Open Source)
+   -> Namespaces: Endereço da Clase
+   -> System:
+      -> Console
+      -> String
+      -> DateTime
+      -> int32
+      -> Decimal
+      -> Boolean
+      -> Convert
+   -> System.IO
+   -> System.Data
+   -> System.Windows.Forms
+   -> System.Web
+   -> System.Text
+   -> System.Collections.Generic
+-> Just in time Compiler
+-> Versão 4.6x .Net Core 1.0
+
+Assembly: Seu arquivo executavel 
+-> Arquivos Executáveis (*.exe)
+-> Bibliotecas de Classes (*.dll) Bibliotecas de vinculo dinamico 
+
